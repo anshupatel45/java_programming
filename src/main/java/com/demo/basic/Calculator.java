@@ -2,7 +2,7 @@ package main.java.com.demo.basic;
 
 import java.util.*;
 
-public class calculator
+public class Calculator
 {
     public static void main (String []args)
     {
@@ -17,9 +17,8 @@ public class calculator
         System.out.println("4 for division");
         System.out.println("5 for modulo");
         int opt=sc.nextInt();
-        while (opt>5) {
-            System.out.println("enter the correct input");
-            opt = sc.nextInt();
+        while (opt<6)
+        {
 
             System.out.println("enter 2 digit input");
 

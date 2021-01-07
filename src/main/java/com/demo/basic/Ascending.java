@@ -1,12 +1,12 @@
 package main.java.com.demo.basic;
 
 import java.util.*;
-class ascending
+class Ascending
 {
     public static void main (String[] arcs)
     {
         Scanner sc = new Scanner (System.in);
-        System.out.println("enter the 3 values to convert into ascending order");
+        System.out.println("enter the 3 values to convert into Ascending order");
         int a=sc. nextInt();
         int b=sc. nextInt();
         int c=sc. nextInt();

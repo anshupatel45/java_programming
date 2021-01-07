@@ -2,7 +2,7 @@ package main.java.com.demo.basic;
 
 import java.util.Scanner;
 
-public class descending
+public class Descending
 {
     public static void main (String[] arcs)
     {

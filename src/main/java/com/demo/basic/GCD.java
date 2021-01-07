@@ -1,7 +1,7 @@
 package main.java.com.demo.basic;
 
 import java.util.*;
-class gcd
+class GCD
 {
     public static void main(String[] arcs)
     {
